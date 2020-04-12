@@ -28,3 +28,18 @@ img{
     border: 5px solid #f64b3c;
     border-radius: 100%;
 }
+
+#footer{
+    background-color: #42240c;
+    text-align: center;
+    padding: 1% 15%;
+}
+
+#footer i{
+    margin:20px 10px;
+}
+
+.copyright{
+    color: #fff;
+    font-size: small;
+}
